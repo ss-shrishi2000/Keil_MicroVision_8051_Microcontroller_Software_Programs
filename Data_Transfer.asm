@@ -3,8 +3,7 @@ PROBLEM 1>  Write an assembly language program to transfer n = 10 bytes of data 
 Algorithm :
 1. Initialize origin of program at 0000H.
 2. Jump to 30H and initialize origin at 30H.
-3. Initialize registers to hold count & also the source & destination
-addresses of code memory.
+3. Initialize registers to hold count & also the source & destination addresses of code memory.
 4. Load lower byte of address into DPL register.
 5. Get data from source location into accumulator.
 6. Move destination address into DPL register.
