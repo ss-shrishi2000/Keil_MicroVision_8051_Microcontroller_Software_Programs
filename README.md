@@ -2,11 +2,14 @@
 This repository comprises of my coursework software programs under the course 8051 Microcontroller Assembly Level Language Programming.
 
 General Introduction -
-       8051 Architecture:
-Architecture shows usual CPU components such as Program counter (PC),
-ALU, working registers and clock circuits.
-Features:
-• 8 bit CPU with registers A (Accumulator) & B
+       8051 Architecture:-
+       
+Architecture shows usual CPU components such as Program counter (PC),ALU, working registers and clock circuits.
+
+
+
+=> Features:
+• 8 bit CPU with registers A (Accumulator) & B  
 • 16 bit program counter (PC) and Data pointer (DPTR).
 • 8 bit Program status word (PSW).
 • 8 bit stack pointer.
